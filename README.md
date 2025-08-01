@@ -1,4 +1,4 @@
-## 👩🏻‍💻 VictorHJSantiago👋
+## 👩🏻‍💻 VictorHJesusSantiago👋
 
 **`Estudante/Desenvolvedor FullStack, Mobile e Desktop`**
 
@@ -17,18 +17,18 @@ Me chamo Victor Henrique de Jesus Santiago, tenho 21 anos e sou natural de Irati
    <a href="https://instagram.com/victorhjsantiago/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
-    <a href="https://github.com/VictorHJSantiago?tab=repositories&sort=stargazers">
+    <a href="https://github.com/VictorHJesusSantiago?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/VictorHJSantiago?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/VictorHJesusSantiago?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/VictorHJSantiago?tab=followers">
+    <a href="https://github.com/VictorHJesusSantiago?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/VictorHJSantiago?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/VictorHJesusSantiago?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
@@ -157,14 +157,14 @@ Me chamo Victor Henrique de Jesus Santiago, tenho 21 anos e sou natural de Irati
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=VictorHJSantiago&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=VictorHJesusSantiago&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJSantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJesusSantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
