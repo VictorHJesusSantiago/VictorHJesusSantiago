@@ -164,7 +164,7 @@ Me chamo Victor Henrique de Jesus Santiago, tenho 21 anos e sou natural de Irati
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJSantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJSantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&update=1" 
   />
 
 </p>
