@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 ## 👩🏻‍💻 VictorHJesusSantiago👋
 
 **`Estudante/Desenvolvedor FullStack, Mobile e Desktop`**
@@ -35,138 +36,128 @@ Me chamo Victor Henrique de Jesus Santiago, tenho 21 anos e sou natural de Irati
 </p>
 
 
+### ✨ Sobre Mim
 
+* 👨‍💻 Cursando **Análise e Desenvolvimento de Sistemas** no IFPR Campus Irati.
+* ❤️ Apaixonado por tecnologia e por compartilhar minha jornada de aprendizado.
+* 🚀 Foco em desenvolvimento **FullStack**, **Mobile** e **Desktop**.
+* 🎓 Formação anterior como Técnico em Florestas pelo C.E.F.E.P.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🚀 Tecnologias e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SpringBoot" 
-    title="SpringBoot"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Dart" 
-    title="Dart"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Flutter" 
-    title="Flutter"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
-/>
+Minha stack de tecnologias inclui:
 
-<br/>
-<br/>
+<table width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <strong>Frontend</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>Backend</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>Mobile</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>Banco de Dados</strong>
+    </td>
+    <td align="center" width="20%">
+      <strong>Ferramentas</strong>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br>
+      <code>HTML5</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br>
+      <code>CSS3</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br>
+      <code>JavaScript</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br>
+      <code>TypeScript</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /><br>
+      <code>React</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" /><br>
+      <code>Bootstrap</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40" alt="jQuery" /><br>
+      <code>jQuery</code>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br>
+      <code>Node.js</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS" /><br>
+      <code>NestJS</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br>
+      <code>Java</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" /><br>
+      <code>Spring</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" alt="PHP" /><br>
+      <code>PHP</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br>
+      <code>Python</code>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40" alt="Dart" /><br>
+      <code>Dart</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" /><br>
+      <code>Flutter</code>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" /><br>
+      <code>MySQL</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" /><br>
+      <code>SQLite</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="40" height="40" alt="Prisma" /><br>
+      <code>Prisma</code>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br>
+      <code>Git</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" /><br>
+      <code>GitHub</code>
+      <br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" /><br>
+      <code>VS Code</code>
+    </td>
+  </tr>
+</table>
 
+---
 
-### 📊 Estatísticas
+### 📊 Minhas Estatísticas no GitHub
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180em"
     src="https://github-readme-stats.vercel.app/api?username=VictorHJSantiago&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="Estatísticas do GitHub"
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJSantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&update=1" 
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJSantiago&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&update=1" 
+    alt="Tecnologias Mais Usadas"
   />
-
 </p>
 
+---
+
+<p align="center">
+  Obrigado pela visita! 👋
+</p>
