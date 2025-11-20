@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/e2/5c/43/e25c43c6a45359de1eb583430150a063.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" alt="Luz Divina">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=32&duration=4000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Victor+Henrique+de+Jesus+Santiago;Soli+Deo+Gloria;Desenvolvedor+FullStack,+Mobile+e+Desktop;Jesus+Cristo+%C3%A9+o+Senhor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=28&duration=3500&pause=1000&color=D4AF37&center=true&vCenter=true&width=1000&lines=Victor+Henrique+de+Jesus+Santiago;Soli+Deo+Gloria;Desenvolvedor+FullStack;Mobile+e+Desktop;Jesus+Cristo+%C3%A9+o+Senhor" alt="Typing SVG" />
   </a>
 
   <br>
