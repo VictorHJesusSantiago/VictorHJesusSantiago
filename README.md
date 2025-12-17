@@ -82,26 +82,26 @@ Minha expertise técnica abrange o ciclo completo de desenvolvimento, fundamenta
 ## 📊 Métricas de Contribuição
 
 <div align="center">
-  <a href="https://github.com/VictorHJSantiago?tab=followers">
+  <a href="https://github.com/VictorHJesusSantiago?tab=followers">
       <img 
           alt="Seguidores" 
           title="Me siga no GitHub" 
-          src="https://custom-icon-badges.demolab.com/github/followers/VictorHJSantiago?color=D4AF37&labelColor=2c2c2c&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+          src="https://custom-icon-badges.demolab.com/github/followers/VictorHJesusSantiago?color=D4AF37&labelColor=2c2c2c&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
       />
   </a>
-  <a href="https://github.com/VictorHJSantiago?tab=repositories&sort=stargazers">
+  <a href="https://github.com/VictorHJesusSantiago?tab=repositories&sort=stargazers">
       <img 
           alt="Total de estrelas" 
           title="Total de estrelas GitHub" 
-          src="https://custom-icon-badges.demolab.com/github/stars/VictorHJSantiago?color=D4AF37&style=for-the-badge&labelColor=2c2c2c&logo=star&label=estrelas"
+          src="https://custom-icon-badges.demolab.com/github/stars/VictorHJesusSantiago?color=D4AF37&style=for-the-badge&labelColor=2c2c2c&logo=star&label=estrelas"
       />
   </a>
   
   <br><br>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHJSantiago&show_icons=true&theme=bear&include_all_commits=true&locale=pt-br&hide_border=true" alt="Victor Santiago Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorHJesusSantiago&show_icons=true&theme=bear&include_all_commits=true&locale=pt-br&hide_border=true" alt="Victor Santiago Stats" />
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJSantiago&theme=bear&layout=compact&custom_title=Tecnologias+Mais+Utilizadas&langs_count=8&hide_border=true" alt="Victor Santiago Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJesusSantiago&theme=bear&layout=compact&custom_title=Tecnologias+Mais+Utilizadas&langs_count=8&hide_border=true" alt="Victor Santiago Languages" />
 </div>
 
 ---
