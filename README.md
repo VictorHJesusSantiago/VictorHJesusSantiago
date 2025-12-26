@@ -113,5 +113,5 @@ Minha expertise técnica abrange o ciclo completo de desenvolvimento, fundamenta
   <h3><em>"Posso todas as coisas naquele que me fortalece."</em> (Filipenses 4:13)</h3>
   
   <p>Desenvolvido por <strong>Victor Henrique de Jesus Santiago</strong><br>
-  Sob a graça de Deus.</p>
+  Sob a graça de Deus Pai, Filho e Espírito Santo.</p>
 </div>
