@@ -255,7 +255,7 @@ jobs:
 
       - name: Atualizar README.md
         run: |
-          sed -i "s|<!-- VERSE -->.*<!-- /VERSE -->|<!-- VERSE -->${{ env.VERSE }}<!-- /VERSE -->|g" README.md
+          sed -i "s|<!-- VERSE -->1 Samuel 20:28 — Jonathan replied to Saul, “David urgently requested that he be allowed to go to Bethlehem.<!-- /VERSE -->|g" README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
@@ -265,7 +265,7 @@ jobs:
 **Adicione esta linha no `README.md`** onde quiser exibir o versículo:
 
 ```html
-> ✝️ <!-- VERSE -->Carregando versículo...<!-- /VERSE -->
+> ✝️ <!-- VERSE -->1 Samuel 20:28 — Jonathan replied to Saul, “David urgently requested that he be allowed to go to Bethlehem.<!-- /VERSE -->
 ```
 
 > **⚠️ Requisito:** Em *Settings → Actions → General → Workflow permissions*, ative **Read and write permissions**.
