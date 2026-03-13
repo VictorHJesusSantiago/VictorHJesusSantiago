@@ -1,0 +1,30 @@
+name: Versículo do Dia
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # todo dia às 6h (UTC) = 3h horário de Brasília
+  workflow_dispatch:
+
+jobs:
+  update-verse:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Buscar versículo aleatório
+        run: |
+          VERSE=$(curl -s "https://labs.bible.org/api/?passage=random&type=json" \
+            | python3 -c "
+          import sys, json
+          d = json.load(sys.stdin)[0]
+          print(f\"{d['bookname']} {d['chapter']}:{d['verse']} — {d['text'].strip()}\")")
+          echo "VERSE=$VERSE" >> $GITHUB_ENV
+
+      - name: Atualizar README.md
+        run: |
+          sed -i "s|<!-- VERSE -->.*<!-- /VERSE -->|<!-- VERSE -->${{ env.VERSE }}<!-- /VERSE -->|g" README.md
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "✝️ Versículo do dia atualizado"
