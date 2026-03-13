@@ -230,7 +230,7 @@ Busca um versículo aleatório da API pública da Bible.org e atualiza automatic
 **Arquivo:** `.github/workflows/versiculo.yml`
 
 ```yaml
-> ✝️ <!-- VERSE -->Carregando versículo...<!-- /VERSE -->
+> ✝️ <!-- VERSE -->Jeremiah 29:21 — “The Lord of Heaven’s Armies, the God of Israel, also has something to say about Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying lies to you and claiming my authority to do so. ‘I will hand them over to King Nebuchadnezzar of Babylon, and he will execute them before your very eyes.<!-- /VERSE -->
 ```
 
 > **⚠️ Requisito:** Em *Settings → Actions → General → Workflow permissions*, ative **Read and write permissions**.
