@@ -230,42 +230,7 @@ Busca um versículo aleatório da API pública da Bible.org e atualiza automatic
 **Arquivo:** `.github/workflows/versiculo.yml`
 
 ```yaml
-name: Versículo do Dia
-
-on:
-  schedule:
-    - cron: "0 6 * * *"   # todo dia às 6h (UTC) = 3h horário de Brasília
-  workflow_dispatch:
-
-jobs:
-  update-verse:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: actions/checkout@v3
-
-      - name: Buscar versículo aleatório
-        run: |
-          VERSE=$(curl -s "https://labs.bible.org/api/?passage=random&type=json" \
-            | python3 -c "
-          import sys, json
-          d = json.load(sys.stdin)[0]
-          print(f\"{d['bookname']} {d['chapter']}:{d['verse']} — {d['text'].strip()}\")")
-          echo "VERSE=$VERSE" >> $GITHUB_ENV
-
-      - name: Atualizar README.md
-        run: |
-          sed -i "s|<!-- VERSE -->1 Samuel 20:28 — Jonathan replied to Saul, “David urgently requested that he be allowed to go to Bethlehem.<!-- /VERSE -->|g" README.md
-
-      - uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "✝️ Versículo do dia atualizado"
-```
-
-**Adicione esta linha no `README.md`** onde quiser exibir o versículo:
-
-```html
-> ✝️ <!-- VERSE -->1 Samuel 20:28 — Jonathan replied to Saul, “David urgently requested that he be allowed to go to Bethlehem.<!-- /VERSE -->
+> ✝️ <!-- VERSE -->Carregando versículo...<!-- /VERSE -->
 ```
 
 > **⚠️ Requisito:** Em *Settings → Actions → General → Workflow permissions*, ative **Read and write permissions**.
