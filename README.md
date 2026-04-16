@@ -24,6 +24,29 @@
 
 <br>
 
+---
+
+<div align="center">
+
+### 🤝 Connect with me
+
+<a href="https://www.linkedin.com/in/victor-henrique-de-jesus-santiago/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:victorhenriquedejesussantiago@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://instagram.com/victorhjsantiago/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/VictorHJesusSantiago" target="_blank"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+
+<br>
+
+> *"For of Him and through Him and to Him are all things, to whom be glory forever. Amen."*
+> — Romans 11:36
+
+</div>
+
+---
+
 <div align="center">
 
 ### 👤 About Me
@@ -123,27 +146,6 @@ My journey covers the **full cycle of software development**: from backend APIs 
 | ♟️ | [**Java Exceptions**](https://github.com/VictorHJesusSantiago/exceptios_1_java) | Booking system built around custom exceptions and catch chaining — robust error handling in practice | `Java` |
 | 🪪 | [**CPF Validator**](https://github.com/VictorHJesusSantiago/desafio01_cpf) | CPF validation algorithm supporting both plain and formatted inputs — precision data validation | `Java` |
 | 🌐 | [**Institutional Website**](https://github.com/VictorHJesusSantiago/trabalhos-do-curso) | Responsive institutional site with portfolio, team and contact form — from design to deployment | `HTML` `CSS` `JS` |
-
----
-
-<div align="center">
-
-### 🤝 Connect with me
-
-<a href="https://www.linkedin.com/in/victor-henrique-de-jesus-santiago/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:victorhenriquedejesussantiago@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://instagram.com/victorhjsantiago/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/VictorHJesusSantiago" target="_blank"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
-
-<br>
-
-> *"For of Him and through Him and to Him are all things, to whom be glory forever. Amen."*
-> — Romans 11:36
-
-</div>
 
 ---
 
