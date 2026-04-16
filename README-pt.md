@@ -24,6 +24,29 @@
 
 <br>
 
+---
+
+<div align="center">
+
+### 🤝 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/victor-henrique-de-jesus-santiago/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:victorhenriquedejesussantiago@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://instagram.com/victorhjsantiago/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/VictorHJesusSantiago" target="_blank"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
+
+<br>
+
+> *"Pois dele, por ele e para ele são todas as coisas. A ele seja a glória para sempre! Amém."*
+> — Romanos 11:36
+
+</div>
+
+---
+
 <div align="center">
 
 ### 👤 Sobre Mim
@@ -123,27 +146,6 @@ Minha trajetória cobre o **ciclo completo do desenvolvimento de software**: do 
 | ⚠️ | [**Java Exceptions**](https://github.com/VictorHJesusSantiago/exceptios_1_java) | Sistema de reservas com exceções customizadas e encadeamento de catch — tratamento robusto de erros na prática | `Java` |
 | 🪪 | [**CPF Validator**](https://github.com/VictorHJesusSantiago/desafio01_cpf) | Algoritmo de validação de CPF para entradas simples e formatadas — validação de dados com precisão | `Java` |
 | 🌐 | [**Site Institucional**](https://github.com/VictorHJesusSantiago/trabalhos-do-curso) | Site institucional responsivo com portfólio, equipe e formulário de contato — do design à entrega | `HTML` `CSS` `JS` |
-
----
-
-<div align="center">
-
-### 🤝 Conecte-se comigo
-
-<a href="https://www.linkedin.com/in/victor-henrique-de-jesus-santiago/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:victorhenriquedejesussantiago@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://instagram.com/victorhjsantiago/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/VictorHJesusSantiago" target="_blank"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=D4AF37" /></a>
-
-<br>
-
-> *"Pois dele, por ele e para ele são todas as coisas. A ele seja a glória para sempre! Amém."*
-> — Romanos 11:36
-
-</div>
 
 ---
 
