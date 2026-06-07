@@ -1,0 +1,31 @@
+name: Cache README assets
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/cache-readme-assets.sh'
+      - '.github/workflows/cache-readme-assets.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and cache dynamic README assets
+        run: bash scripts/cache-readme-assets.sh
+
+      - name: Commit refreshed assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/readme
+          git diff --cached --quiet || git commit -m "chore: refresh cached README assets"
+          git push
