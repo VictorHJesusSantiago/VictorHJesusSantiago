@@ -10,11 +10,11 @@
 ---
 <div align="center"><h3>👤 About Me</h3></div>
 <img align="right" alt="coding" width="280" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
-I'm a **FullStack Developer** from Brazil 🇧🇷, passionate about building software that is robust, clean, and purposeful. I graduated in **Systems Analysis and Development (ADS)** at IFPR Campus Irati and I'm constantly expanding my expertise. My journey covers the **full cycle of software development**: from backend APIs with Java and Spring Boot, to mobile interfaces with Flutter, passing through web front-ends and relational databases. I believe great software is built with discipline, deep understanding of architecture, and genuine care for the end user.
+I'm a **FullStack Developer** from Brazil 🇧🇷, passionate about building software that is robust, clean, and purposeful. I graduated in **Systems Analysis and Development (ADS)** at IFPR Campus Irati and I'm constantly expanding my expertise. My journey covers the **full cycle of software development**: from backend APIs with Java and Spring Boot, to cross-platform apps with C# and .NET, passing through web front-ends and relational databases. I believe great software is built with discipline, deep understanding of architecture, and genuine care for the end user.
 
 - 🎓 **ADS Graduate** — IFPR Campus Irati
-- 🌱 Currently deepening: **NestJS**, **Prisma** & **Clean Architecture**
-- 🔭 Always improving: **Java**, **Spring Boot** & **Flutter**
+- 🌱 Currently deepening: **C#**, **.NET** & **Clean Architecture**
+- 🔭 Always improving: **Java**, **Spring Boot** & **C#**
 - 💬 Ask me about **REST APIs**, **Software Architecture** & **Design Patterns**
 - ✝️ *"Whatever you do, do it heartily, as to the Lord and not to men."* — Col. 3:23
 <br clear="right"/>
@@ -43,9 +43,8 @@ I'm a **FullStack Developer** from Brazil 🇧🇷, passionate about building so
 |:-:|:--------|:-------|:-----:|
 | 🌱 | [**Workshop Spring Boot 3 & JPA**](https://github.com/VictorHJesusSantiago/workshop-springboot3-jpa) | Full RESTful API lifecycle: entities, repositories, services and exception handling — a solid architectural foundation for production systems | `Java` `Spring` `H2` |
 | 🛒 | [**CoopVale**](https://github.com/VictorHJesusSantiago/CoopVale) | End-to-end cooperative e-commerce with real payment integration (PIX + cards) and webhook-driven async flows | `Flask` `SQLite` `Bootstrap` |
-| 🎓 | [**NestJS Studies**](https://github.com/VictorHJesusSantiago/projeto_nest) | Production-grade API with JWT auth, Guards and Interceptors — exploring the advanced features of the NestJS ecosystem | `NestJS` `TypeScript` `Prisma` |
 | ♿ | [**AcessoTrip**](https://github.com/VictorHJesusSantiago/AcessoTrip) | Accessible tourism prototype built with WAI-ARIA — demonstrating that great UX includes everyone | `HTML` `CSS` `JS` `Mapbox` |
-| 📱 | [**Flutter Counter**](https://github.com/VictorHJesusSantiago/projeto-flutter-1) | First step into Flutter 3: StatefulWidget lifecycle and reactive state management | `Flutter` `Dart` |
+| 🧮 | [**CompendioCalc**](https://github.com/VictorHJesusSantiago/CompendioCalc) | Cross-platform scientific compendium calculator — exploring native UI across desktop and mobile from a single C# codebase | `C#` `.NET MAUI` |
 | 🎨 | [**Doodlz**](https://github.com/VictorHJesusSantiago/doodlz) | Multi-touch drawing app with accelerometer integration and a full color palette system for Android | `Java` `Android SDK` |
 | 📸 | [**AppCamera**](https://github.com/VictorHJesusSantiago/appcamera) | Native Android media capture via MediaStore Intents — clean and direct integration with OS-level capabilities | `Java` `Android SDK` |
 | 🛍️ | [**Lojinha Local**](https://github.com/VictorHJesusSantiago/lojinha_local) | Full-featured mini e-commerce: authentication, product CRUD, image upload — a self-contained business application | `Flask` `SQLAlchemy` `Bcrypt` |

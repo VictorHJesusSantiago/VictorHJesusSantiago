@@ -10,11 +10,11 @@
 ---
 <div align="center"><h3>👤 Sobre Mí</h3></div>
 <img align="right" alt="coding" width="280" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
-Soy un **Desarrollador FullStack** de Brasil 🇧🇷, apasionado por construir software robusto, limpio y con propósito. Me gradué en **Análisis y Desarrollo de Sistemas (ADS)** en el IFPR Campus Irati y estoy expandiendo constantemente mi experiencia. Mi viaje cubre el **ciclo completo de desarrollo de software**: desde APIs backend con Java y Spring Boot, hasta interfaces móviles con Flutter, pasando por front-ends web y bases de datos relacionales. Creo que un gran software se construye con disciplina, una comprensión profunda de la arquitectura y un cuidado genuino por el usuario final.
+Soy un **Desarrollador FullStack** de Brasil 🇧🇷, apasionado por construir software robusto, limpio y con propósito. Me gradué en **Análisis y Desarrollo de Sistemas (ADS)** en el IFPR Campus Irati y estoy expandiendo constantemente mi experiencia. Mi viaje cubre el **ciclo completo de desarrollo de software**: desde APIs backend con Java y Spring Boot, hasta aplicaciones multiplataforma con C# y .NET, pasando por front-ends web y bases de datos relacionales. Creo que un gran software se construye con disciplina, una comprensión profunda de la arquitectura y un cuidado genuino por el usuario final.
 
 - 🎓 **Graduado en ADS** — IFPR Campus Irati
-- 🌱 Profundizando actualmente en: **NestJS**, **Prisma** & **Clean Architecture**
-- 🔭 Siempre mejorando: **Java**, **Spring Boot** & **Flutter**
+- 🌱 Profundizando actualmente en: **C#**, **.NET** & **Clean Architecture**
+- 🔭 Siempre mejorando: **Java**, **Spring Boot** & **C#**
 - 💬 Pregúntame sobre **APIs REST**, **Arquitectura de Software** & **Design Patterns**
 - ✝️ *"Y todo lo que hagáis, hacedlo de corazón, como para el Señor y no para los hombres."* — Colosenses 3:23
 <br clear="right"/>
@@ -43,9 +43,8 @@ Soy un **Desarrollador FullStack** de Brasil 🇧🇷, apasionado por construir 
 |:-:|:--------|:-------|:-----:|
 | 🌱 | [**Workshop Spring Boot 3 & JPA**](https://github.com/VictorHJesusSantiago/workshop-springboot3-jpa) | Ciclo completo de API RESTful: entidades, repositorios, servicios y manejo de excepciones — base sólida para producción | `Java` `Spring` `H2` |
 | 🛒 | [**CoopVale**](https://github.com/VictorHJesusSantiago/CoopVale) | E-commerce cooperativo con integración real de pago (PIX + tarjetas) y flujos asíncronos mediante webhooks | `Flask` `SQLite` `Bootstrap` |
-| 🎓 | [**Estudios NestJS**](https://github.com/VictorHJesusSantiago/projeto_nest) | API a nivel de producción con auth JWT, Guards e Interceptors — explorando características avanzadas | `NestJS` `TypeScript` `Prisma` |
 | ♿ | [**AcessoTrip**](https://github.com/VictorHJesusSantiago/AcessoTrip) | Prototipo de turismo accesible construido con WAI-ARIA — demostrando que una buena UX incluye a todos | `HTML` `CSS` `JS` `Mapbox` |
-| 📱 | [**Flutter Counter**](https://github.com/VictorHJesusSantiago/projeto-flutter-1) | Primer paso en Flutter 3: ciclo de vida de StatefulWidget y gestión de estado reactivo | `Flutter` `Dart` |
+| 🧮 | [**CompendioCalc**](https://github.com/VictorHJesusSantiago/CompendioCalc) | Calculadora científica multiplataforma — explorando UI nativa en escritorio y móvil desde una única base de código en C# | `C#` `.NET MAUI` |
 | 🎨 | [**Doodlz**](https://github.com/VictorHJesusSantiago/doodlz) | App de dibujo multitáctil con integración de acelerómetro y un sistema completo de paleta de colores | `Java` `Android SDK` |
 | 📸 | [**AppCamera**](https://github.com/VictorHJesusSantiago/appcamera) | Captura de medios nativa en Android mediante MediaStore Intents — integración directa con el SO | `Java` `Android SDK` |
 | 🛍️ | [**Lojinha Local**](https://github.com/VictorHJesusSantiago/lojinha_local) | Mini e-commerce con todas las funciones: autenticación, CRUD de productos y subida de imágenes | `Flask` `SQLAlchemy` `Bcrypt` |
