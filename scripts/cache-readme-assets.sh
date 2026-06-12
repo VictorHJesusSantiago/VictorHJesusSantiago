@@ -28,6 +28,11 @@ typing-es.svg|https://readme-typing-svg.herokuapp.com/?color=D4AF37&size=28&cent
 streak-en.svg|https://streak-stats.demolab.com?user=VictorHJesusSantiago&theme=monokai&hide_border=false&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37&locale=en&date_format=j%20M%5B%20Y%5D
 streak-pt.svg|https://streak-stats.demolab.com?user=VictorHJesusSantiago&theme=monokai&hide_border=false&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37&locale=pt_BR&date_format=j%20M%5B%20Y%5D
 streak-es.svg|https://streak-stats.demolab.com?user=VictorHJesusSantiago&theme=monokai&hide_border=false&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37&locale=es&date_format=j%20M%5B%20Y%5D
+skills-frontend.svg|https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark
+skills-backend.svg|https://skillicons.dev/icons?i=java,spring,python,flask,ts,cs,dotnet&theme=dark
+skills-databases.svg|https://skillicons.dev/icons?i=mysql,sqlite,mongodb,prisma&theme=dark
+skills-tools.svg|https://skillicons.dev/icons?i=git,androidstudio&theme=dark
+wakatime.svg|https://github-readme-stats.vercel.app/api/wakatime?username=VictorHJesusSantiago&theme=monokai&hide_border=false&title_color=D4AF37&icon_color=D4AF37&border_color=D4AF37&layout=compact
 EOF
 )
 

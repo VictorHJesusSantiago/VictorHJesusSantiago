@@ -22,16 +22,19 @@ Soy un **Desarrollador FullStack** de Brasil 🇧🇷, apasionado por construir 
 ---
 <div align="center"><h3>🛠️ Tecnologías</h3>
 <b>Front-end & Mobile</b><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"><br><br>
+<img src="assets/readme/skills-frontend.svg" alt="Habilidades Front-end & Mobile"/><br><br>
 <b>Back-end</b><br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"><br><br>
+<img src="assets/readme/skills-backend.svg" alt="Habilidades Back-end"/><br><br>
 <b>Bases de Datos</b><br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"><br><br>
+<img src="assets/readme/skills-databases.svg" alt="Habilidades en Bases de Datos"/><br><br>
 <b>Herramientas & Plataformas</b><br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"> <img src="https://img.shields.io/badge/H2-1a1a2e?style=for-the-badge&logo=databricks&logoColor=D4AF37"></div>
+<img src="assets/readme/skills-tools.svg" alt="Habilidades en Herramientas & Plataformas"/> <img src="https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white"> <img src="https://img.shields.io/badge/H2-1a1a2e?style=flat&logo=databricks&logoColor=D4AF37"></div>
 
 ---
 <div align="center"><h3>📊 Estadísticas de GitHub</h3><img src="assets/readme/stats.svg" height="165" alt="GitHub Stats"/> <img src="assets/readme/top-langs.svg" height="165" alt="Top Languages"/><br><img src="assets/readme/streak-es.svg" width="60%" alt="GitHub Streak"/></div>
+
+---
+<div align="center"><h3>⏱️ Actividad en WakaTime</h3><img src="assets/readme/wakatime.svg" width="60%" alt="Estadísticas de WakaTime"/></div>
 
 ---
 <div align="center"><h3>🗂️ Portafolio de Proyectos</h3></div>
