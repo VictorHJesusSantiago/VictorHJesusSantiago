@@ -130,11 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-<<<<<<< HEAD
           width="174.09"
-=======
-          width="177.04"
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
           height="8"
           fill="#178600"
         />
@@ -142,15 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-<<<<<<< HEAD
           x="174.09"
           y="0"
           width="31.21"
-=======
-          x="177.04"
-          y="0"
-          width="32.1"
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
           height="8"
           fill="#4F5D95"
         />
@@ -158,15 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-<<<<<<< HEAD
           x="205.3"
           y="0"
           width="15.16"
-=======
-          x="209.14"
-          y="0"
-          width="10.45"
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
           height="8"
           fill="#3572A5"
         />
@@ -174,15 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-<<<<<<< HEAD
           x="220.46"
           y="0"
           width="19.54"
-=======
-          x="219.58999999999997"
-          y="0"
-          width="19.82"
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
           height="8"
           fill="#858585"
         />
@@ -190,15 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-<<<<<<< HEAD
           x="230"
           y="0"
           width="18.11"
-=======
-          x="229.40999999999997"
-          y="0"
-          width="18.35"
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
           height="8"
           fill="#e34c26"
         />
@@ -206,15 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-<<<<<<< HEAD
           x="238.11"
           y="0"
           width="14.17"
-=======
-          x="237.75999999999996"
-          y="0"
-          width="14.29"
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
           height="8"
           fill="#663399"
         />
@@ -222,15 +188,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-<<<<<<< HEAD
           x="242.28"
           y="0"
           width="13.96"
-=======
-          x="242.04999999999995"
-          y="0"
-          width="14.08"
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
           height="8"
           fill="#3178c6"
         />
@@ -238,15 +198,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-<<<<<<< HEAD
           x="246.24"
           y="0"
           width="13.76"
-=======
-          x="246.12999999999997"
-          y="0"
-          width="13.870000000000001"
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
           height="8"
           fill="#f7523f"
         />
@@ -257,88 +211,56 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-<<<<<<< HEAD
         C# 69.63%
-=======
-        C# 70.82%
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-<<<<<<< HEAD
         PHP 12.48%
-=======
-        PHP 12.84%
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-<<<<<<< HEAD
         Python 6.06%
-=======
-        Python 4.18%
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-<<<<<<< HEAD
         COBOL 3.82%
-=======
-        COBOL 3.93%
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-<<<<<<< HEAD
         HTML 3.25%
-=======
-        HTML 3.34%
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-<<<<<<< HEAD
         CSS 1.67%
-=======
-        CSS 1.72%
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-<<<<<<< HEAD
         TypeScript 1.58%
-=======
-        TypeScript 1.63%
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
       </text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms">
       <circle cx="5" cy="6" r="5" fill="#f7523f" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-<<<<<<< HEAD
         Blade 1.50%
-=======
-        Blade 1.55%
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
       </text>
     </g>
   </g></g>
