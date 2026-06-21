@@ -9,11 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Victor Henrique de Jesus Santiago's GitHub Stats, Rank: C+</title>
-<<<<<<< HEAD
         <desc id="descId">Total Stars Earned: 5, Total Commits  (last year) : 526, Total PRs: 16, Total Issues: 1, Contributed to (last year): 0</desc>
-=======
-        <desc id="descId">Total Stars Earned: 4, Total Commits  (last year) : 505, Total PRs: 16, Total Issues: 1, Contributed to (last year): 0</desc>
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -77,11 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-<<<<<<< HEAD
         stroke-dashoffset: 190.64133078042028;
-=======
-        stroke-dashoffset: 192.63585655271027;
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
       }
     }
   
@@ -185,11 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-<<<<<<< HEAD
       >526</text>
-=======
-      >505</text>
->>>>>>> d1d22a15b937328c9e80436668aae92bcd1023be
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
