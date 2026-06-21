@@ -33,6 +33,11 @@ skills-backend.svg|https://skillicons.dev/icons?i=java,spring,python,flask,ts,cs
 skills-databases.svg|https://skillicons.dev/icons?i=mysql,sqlite,mongodb,prisma&theme=dark
 skills-tools.svg|https://skillicons.dev/icons?i=git,androidstudio&theme=dark
 wakatime.svg|https://github-readme-stats.vercel.app/api/wakatime?username=VictorHJesusSantiago&theme=monokai&hide_border=false&title_color=D4AF37&icon_color=D4AF37&border_color=D4AF37&layout=compact
+banner-header-new.svg|https://capsule-render.vercel.app/api?type=waving&color=0079FF,090C12&height=160&section=header&text=Victor%20H.%20J.%20Santiago&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=FullStack%20Developer%20%7C%20Soli%20Deo%20Gloria%20%E2%9C%9D%EF%B8%8F&descAlignY=62&descSize=17&animation=fadeIn&reversal=true
+banner-footer-new.svg|https://capsule-render.vercel.app/api?type=waving&color=090C12,0079FF&height=120&section=footer&animation=fadeIn&reversal=true
+stats-new.svg|https://github-readme-stats.vercel.app/api?username=VictorHJesusSantiago&show_icons=true&theme=tokyonight&title_color=0079FF&icon_color=0079FF&border_color=0079FF&hide_border=false&count_private=true
+top-langs-new.svg|https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJesusSantiago&layout=compact&theme=tokyonight&title_color=0079FF&border_color=0079FF&hide_border=false&langs_count=8
+streak-new.svg|https://streak-stats.demolab.com?user=VictorHJesusSantiago&theme=tokyonight&hide_border=false&ring=0079FF&fire=00D4FF&currStreakLabel=0079FF&border=0079FF&locale=en&date_format=j%20M%5B%20Y%5D
 EOF
 )
 
