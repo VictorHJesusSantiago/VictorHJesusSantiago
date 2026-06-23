@@ -16,9 +16,10 @@ banner-header-es.svg|https://capsule-render.vercel.app/api?type=waving&color=D4A
 banner-footer.svg|https://capsule-render.vercel.app/api?type=waving&color=1a1a2e,D4AF37&height=120&section=footer&animation=fadeIn
 stats.svg|https://github-readme-stats.vercel.app/api?username=VictorHJesusSantiago&show_icons=true&theme=monokai&title_color=D4AF37&icon_color=D4AF37&border_color=D4AF37&hide_border=false&count_private=true
 top-langs.svg|https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJesusSantiago&layout=compact&theme=monokai&title_color=D4AF37&border_color=D4AF37&hide_border=false&langs_count=8
-profile-details.svg|https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorHJesusSantiago&theme=monokai
-most-commit-lang.svg|https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorHJesusSantiago&theme=monokai
-repos-per-lang.svg|https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorHJesusSantiago&theme=monokai
+profile-details.svg|https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorHJesusSantiago&theme=tokyonight
+most-commit-lang.svg|https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorHJesusSantiago&theme=tokyonight
+repos-per-lang.svg|https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorHJesusSantiago&theme=tokyonight
+stats-summary.svg|https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorHJesusSantiago&theme=tokyonight
 activity-graph-en.svg|https://github-readme-activity-graph.vercel.app/graph?username=VictorHJesusSantiago&bg_color=1a1a2e&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20History
 activity-graph-pt.svg|https://github-readme-activity-graph.vercel.app/graph?username=VictorHJesusSantiago&bg_color=1a1a2e&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true&custom_title=Hist%C3%B3rico%20de%20Contribui%C3%A7%C3%A3o
 activity-graph-es.svg|https://github-readme-activity-graph.vercel.app/graph?username=VictorHJesusSantiago&bg_color=1a1a2e&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true&custom_title=Historial%20de%20Contribuciones

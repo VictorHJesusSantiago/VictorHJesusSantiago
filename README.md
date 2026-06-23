@@ -16,9 +16,19 @@
 
 ---
 
-**FullStack Developer** from Brazil 🇧🇷 — ADS Graduate at IFPR Campus Irati. I build production-ready systems end-to-end: robust Java & C# APIs, cross-platform .NET MAUI Blazor apps, computer vision, banking infrastructure, and clean web front-ends. I care about **architecture**, **craft**, and code that lasts.
+## 👤 About Me
 
-> ✝️ *"Whatever you do, do it heartily, as to the Lord and not to men."* — Colossians 3:23
+<img align="right" alt="coding" width="265" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif"/>
+
+I'm a **FullStack Developer** from Brazil 🇧🇷, passionate about building robust, clean, and purposeful software. I hold a degree in **Systems Analysis and Development (ADS)** from IFPR Campus Irati and I'm constantly expanding my knowledge. My journey covers the **complete software development cycle**: from backend APIs with Java and Spring Boot, to cross-platform applications with C# and .NET, web front-ends, and relational databases. I believe great software is built with discipline, deep architectural understanding, and genuine care for the end user.
+
+- 🎓 **ADS Graduate** — IFPR Campus Irati
+- 🌱 Currently deepening: **C#**, **.NET** & **Clean Architecture**
+- 🔭 Always improving: **Java**, **Spring Boot** & **C#**
+- 💬 Ask me about **REST APIs**, **Software Architecture** & **Design Patterns**
+- ✝️ *"Whatever you do, do it heartily, as to the Lord and not to men."* — Colossians 3:23
+
+<br clear="right"/>
 
 ---
 
@@ -137,14 +147,24 @@ Responsive institutional website with portfolio gallery, team section, and conta
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="assets/readme/stats-new.svg" height="90"/>
-  <img src="assets/readme/top-langs-new.svg" height="90"/><br/>
-  <img src="assets/readme/streak-new.svg" width="35%"/><br/>
-  <img src="assets/readme/activity-graph-en.svg" width="50%"/><br/>
-  <img src="assets/readme/profile-details.svg" width="50%"/><br/>
-  <img src="assets/readme/most-commit-lang.svg" width="20%"/>
-  <img src="assets/readme/repos-per-lang.svg" width="20%"/><br/><br/>
-  <img src="https://raw.githubusercontent.com/VictorHJesusSantiago/VictorHJesusSantiago/output/github-contribution-grid-snake-dark.svg" width="50%"/>
+<table width="100%"><tr>
+<td width="55%" align="center"><img src="assets/readme/stats-new.svg" width="100%"/></td>
+<td width="45%" align="center"><img src="assets/readme/top-langs-new.svg" width="100%"/></td>
+</tr></table>
+
+<table width="100%"><tr>
+<td align="center"><img src="assets/readme/stats-summary.svg" width="100%"/></td>
+<td align="center"><img src="assets/readme/repos-per-lang.svg" width="100%"/></td>
+<td align="center"><img src="assets/readme/most-commit-lang.svg" width="100%"/></td>
+</tr></table>
+
+<table width="100%"><tr>
+<td width="60%" align="center"><img src="assets/readme/profile-details.svg" width="100%"/></td>
+<td width="40%" align="center"><img src="assets/readme/streak-new.svg" width="100%"/></td>
+</tr></table>
+
+<img src="assets/readme/activity-graph-en.svg" width="96%"/><br/>
+<img src="https://raw.githubusercontent.com/VictorHJesusSantiago/VictorHJesusSantiago/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </div>
 
 ---
