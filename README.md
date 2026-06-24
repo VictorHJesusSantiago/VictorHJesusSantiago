@@ -148,22 +148,22 @@ Responsive institutional website with portfolio gallery, team section, and conta
 
 <div align="center">
 <table width="100%"><tr>
-<td width="55%" align="center"><img src="assets/readme/stats-new.svg" width="100%"/></td>
-<td width="45%" align="center"><img src="assets/readme/top-langs-new.svg" width="100%"/></td>
+<td width="55%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=VictorHJesusSantiago&show_icons=true&theme=tokyonight&title_color=0079FF&icon_color=0079FF&border_color=0079FF&hide_border=false&count_private=true" width="100%"/></td>
+<td width="45%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJesusSantiago&layout=compact&theme=tokyonight&title_color=0079FF&border_color=0079FF&hide_border=false&langs_count=8" width="100%"/></td>
 </tr></table>
 
 <table width="100%"><tr>
-<td align="center"><img src="assets/readme/stats-summary.svg" width="100%"/></td>
-<td align="center"><img src="assets/readme/repos-per-lang.svg" width="100%"/></td>
-<td align="center"><img src="assets/readme/most-commit-lang.svg" width="100%"/></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VictorHJesusSantiago&theme=tokyonight" width="100%"/></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorHJesusSantiago&theme=tokyonight" width="100%"/></td>
+<td align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VictorHJesusSantiago&theme=tokyonight" width="100%"/></td>
 </tr></table>
 
 <table width="100%"><tr>
-<td width="60%" align="center"><img src="assets/readme/profile-details.svg" width="100%"/></td>
-<td width="40%" align="center"><img src="assets/readme/streak-new.svg" width="100%"/></td>
+<td width="60%" align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorHJesusSantiago&theme=tokyonight" width="100%"/></td>
+<td width="40%" align="center"><img src="https://streak-stats.demolab.com?user=VictorHJesusSantiago&theme=tokyonight&hide_border=false&ring=0079FF&fire=00D4FF&currStreakLabel=0079FF&border=0079FF&locale=en&date_format=j%20M%5B%20Y%5D" width="100%"/></td>
 </tr></table>
 
-<img src="assets/readme/activity-graph-en.svg" width="96%"/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorHJesusSantiago&bg_color=1a1a2e&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20History" width="96%"/><br/>
 <img src="https://raw.githubusercontent.com/VictorHJesusSantiago/VictorHJesusSantiago/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </div>
 
