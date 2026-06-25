@@ -173,7 +173,7 @@ Responsive institutional website with portfolio gallery, team section, and conta
   <b>"For of Him and through Him and to Him are all things, to whom be glory forever. Amen."</b><br/>
   <i>Romans 11:36</i><br/><br/>
   <sub>Built with ☕ and faith · <b>Victor Henrique de Jesus Santiago</b></sub><br/><br/>
-  <a href="#top">↑ back to top</a>
+  <a href="#top">↑ BACK TO TOP</a>
 </div>
 
 <img src="assets/readme/banner-footer-new.svg" width="100%"/>
