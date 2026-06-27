@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>BGM Player</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      background: #090C12;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      font-family: sans-serif;
+      color: #ccc;
+      gap: 16px;
+    }
+    p { font-size: 13px; opacity: 0.6; }
+    button {
+      background: #090C12;
+      border: 1px solid #0079FF;
+      color: #0079FF;
+      border-radius: 50%;
+      width: 56px;
+      height: 56px;
+      font-size: 24px;
+      cursor: pointer;
+      transition: background 0.2s, color 0.2s;
+    }
+    button:hover { background: #0079FF; color: #fff; }
+  </style>
+</head>
+<body>
+  <audio id="audio" loop>
+    <source src="Enya%20-%20Only%20Time%20(Official%204K%20Music%20Video).m4a" type="audio/mp4"/>
+  </audio>
+
+  <button id="btn" title="Play / Mute">▶</button>
+  <p>Enya — Only Time</p>
+
+  <script>
+    const audio = document.getElementById('audio');
+    const btn   = document.getElementById('btn');
+    let playing = false;
+
+    function syncBtn() {
+      if (!playing || audio.muted) {
+        btn.textContent = playing && audio.muted ? '🔇' : '▶';
+      } else {
+        btn.textContent = '🔊';
+      }
+    }
+
+    btn.addEventListener('click', () => {
+      if (!playing) {
+        audio.play().then(() => { playing = true; syncBtn(); }).catch(() => {});
+      } else {
+        audio.muted = !audio.muted;
+        syncBtn();
+      }
+    });
+
+    // Try autoplay on load; most browsers will block it until interaction
+    audio.play().then(() => { playing = true; syncBtn(); }).catch(() => {});
+  </script>
+</body>
+</html>

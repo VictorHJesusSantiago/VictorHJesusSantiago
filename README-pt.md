@@ -12,7 +12,8 @@
   <a href="https://linkedin.com/in/victor-henrique-de-jesus-santiago/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="mailto:victorhenriquedejesussantiago@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
   <a href="https://instagram.com/victorhjsantiago/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
-  <a href="https://github.com/VictorHJesusSantiago"><img src="https://img.shields.io/badge/GitHub-090C12?style=for-the-badge&logo=github&logoColor=0079FF"/></a>
+  <a href="https://github.com/VictorHJesusSantiago"><img src="https://img.shields.io/badge/GitHub-090C12?style=for-the-badge&logo=github&logoColor=0079FF"/></a>&nbsp;
+  <a href="https://victorhjesussantiago.github.io/VictorHJesusSantiago/music-player.html"><img src="https://img.shields.io/badge/🎵_BGM-Only_Time-0079FF?style=for-the-badge&labelColor=090C12"/></a>
 </div>
 
 ---
