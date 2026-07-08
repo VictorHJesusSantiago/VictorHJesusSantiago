@@ -167,7 +167,6 @@ Responsive institutional website with portfolio gallery, team section, and conta
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=VictorHJesusSantiago&bg_color=1a1a2e&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20History" width="96%"/><br/>
 <img src="https://raw.githubusercontent.com/VictorHJesusSantiago/VictorHJesusSantiago/output/github-contribution-grid-snake-dark.svg" width="96%"/>
 </div>
-
 ---
 
 <div align="center">
