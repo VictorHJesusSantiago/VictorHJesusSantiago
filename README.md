@@ -149,8 +149,8 @@ Responsive institutional website with portfolio gallery, team section, and conta
 
 <div align="center">
 <table width="100%"><tr>
-<td width="55%" align="center"><img src="https://github-readme-stats.vercel.app/api?username=VictorHJesusSantiago&show_icons=true&theme=tokyonight&title_color=0079FF&icon_color=0079FF&border_color=0079FF&hide_border=false&count_private=true" width="100%"/></td>
-<td width="45%" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHJesusSantiago&layout=compact&theme=tokyonight&title_color=0079FF&border_color=0079FF&hide_border=false&langs_count=8" width="100%"/></td>
+<td width="55%" align="center"><img src="https://github-stats-extended.vercel.app/api?username=VictorHJesusSantiago&show_icons=true&theme=tokyonight&title_color=0079FF&icon_color=0079FF&border_color=0079FF&hide_border=false&count_private=true" width="100%"/></td>
+<td width="45%" align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=VictorHJesusSantiago&layout=compact&theme=tokyonight&title_color=0079FF&border_color=0079FF&hide_border=false&langs_count=8" width="100%"/></td>
 </tr></table>
 
 <table width="100%"><tr>
