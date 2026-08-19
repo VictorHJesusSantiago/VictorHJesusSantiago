@@ -1,14 +1,9 @@
 #!/usr/bin/env bash
-# Downloads the dynamically-rendered SVGs/badges used in the profile READMEs and
-# stores static copies under assets/readme/. The READMEs reference these local
-# copies instead of the live third-party endpoints, so a slow/asleep/down service
-# only ever results in a slightly stale image — never a broken one.
 set -euo pipefail
 
 cd "$(dirname "$0")/.."
 mkdir -p assets/readme
 
-# name|url  (one per line)
 ASSETS=$(cat <<'EOF'
 banner-header-en.svg|https://capsule-render.vercel.app/api?type=waving&color=D4AF37,1a1a2e,D4AF37&height=180&section=header&text=Victor%20H.%20J.%20Santiago&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Soli%20Deo%20Gloria%20%E2%9C%9D%EF%B8%8F&descAlignY=60&descSize=18&animation=fadeIn
 banner-header-pt.svg|https://capsule-render.vercel.app/api?type=waving&color=D4AF37,1a1a2e,D4AF37&height=180&section=header&text=Victor%20H.%20J.%20Santiago&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20FullStack%20%7C%20Soli%20Deo%20Gloria%20%E2%9C%9D%EF%B8%8F&descAlignY=60&descSize=18&animation=fadeIn
