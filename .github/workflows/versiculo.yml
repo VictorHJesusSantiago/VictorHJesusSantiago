@@ -2,7 +2,7 @@ name: Versículo do Dia
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # todo dia às 6h (UTC) = 3h horário de Brasília
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 jobs:
